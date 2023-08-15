@@ -35,7 +35,14 @@
   <img align="center" alt="IJS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="IPython"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+<br/>
 
+<h1 style="font-family:	Times New Roman;"><strong>Main projects</strong></h1>
 
+<h2 style="text-decoration: underline">Aplicação Web - Sistema de Hotel</h2>
+<p>Aplicação Web que gerencia todos os aspectos de um hotel, desde o cadastro dos usuários até as reservas de quartos  oferecidos. Atualmente em Desenvolvimento.</p>
+<p><b style="color:#2a4641">Funcionalidades:</b> Gerenciamento do cadastro de clientes, Reserva de quartos, Gerenciamento dos quartos</p>
+<p><b style="color:#860202">Tecnologias Utilizadas:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
+<p><b style="color:#2AC8AE">Repositório:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Ir Para O Repositório</a></p>
 
 
