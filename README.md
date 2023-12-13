@@ -8,23 +8,13 @@
 
 <picture >
 <source height=200px
-  srcset="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&theme=dark&rank_icon=github&count_private"
+  srcset="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&&rank_icon=github&count_private"
   media="(prefers-color-scheme: dark)"
 />
 <img height=200px src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private" />
 </picture>
 
-<picture>
-<source height=200px
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniuchoa&layout=donut&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source height=200px
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniuchoa&layout=donut"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniuchoa&layout=donut" />
-</picture> <br/>
+<br/>
 
 <h2>Code languages I use:</h2>
 <div style="display: inline_block">
