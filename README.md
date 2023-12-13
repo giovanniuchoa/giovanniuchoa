@@ -37,10 +37,5 @@
 
 <h1 style="font-family:	Times New Roman;"><strong>Main projects</strong></h1>
 
-<h2 style="text-decoration: underline">Web application - Hotel System</h2>
-<p>Web application which manages all aspects of a hotel, since user registering to offered rooms reservation. At the moment under development.</p>
-<p><b style="color:#2a4641">Funcionalities:</b> Managment ang register of clients, managment and register of rooms.</p>
-<p><b style="color:#860202">Used technologies:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go to repository</a></p>
 
 
