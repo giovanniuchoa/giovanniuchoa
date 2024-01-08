@@ -8,7 +8,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&theme=tokyonight&rank_icon=github&count_private"
   media="(prefers-color-scheme: dark)"
 />
-<img height=200px src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private" />
+<img height=200px src="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&rank_icon=github&count_private" />
 </picture>
 
 <br/>
