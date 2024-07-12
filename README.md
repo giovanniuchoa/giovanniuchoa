@@ -25,6 +25,11 @@
   <img align="center" alt="INode"  src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
+## WakaTime status
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight" />
+</a>
+
 
 
 
