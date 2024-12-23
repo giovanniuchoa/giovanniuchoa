@@ -19,11 +19,8 @@
 <div style="display: inline_block">
   <img align="center" alt="IC#" src="https://img.shields.io/badge/C%23-270065?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="I.NET"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="I.NET"  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="ISqlServer"  src="https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=black">
+  <img align="center" alt="SQLServer"  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
-  <img align="center" alt="IPython"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="INode"  src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
 ## WakaTime Stats
