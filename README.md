@@ -21,6 +21,7 @@
   <img align="center" alt="I.NET"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="SQLServer"  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
+  <img align="center" alt="Type"  src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 
 ## WakaTime Stats
