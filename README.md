@@ -1,10 +1,6 @@
 <!-- Banner / Saudação -->
-<h1 align="center">Hello World! I'm Giovanni Uchoa</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/> Hello World! I'm Giovanni Uchoa</h1>
 <h3 align="center">💻 C# | .NET | SQL Server | Python | Azure Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
-</p>
 
 ---
 
@@ -39,9 +35,11 @@
 
 ### ⏱️ WakaTime Stats
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight" />
+  </a>  
+</div>
 
 ---
 
