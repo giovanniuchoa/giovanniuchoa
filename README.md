@@ -1,35 +1,57 @@
+<!-- Banner / Saudação -->
+<h1 align="center">Hello World! I'm Giovanni Uchoa</h1>
+<h3 align="center">💻 C# | .NET | SQL Server | Python | Azure Enthusiast</h3>
 
-## Hello World! My name is Giovanni Uchoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
+</p>
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanniuchoa/)
+---
 
-<picture >
-<source height=200px
-  srcset="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&theme=tokyonight&rank_icon=github&count_private"
-  media="(prefers-color-scheme: dark)"
-/>
-<img height=200px src="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&rank_icon=github&count_private" />
-</picture>
+### 🧩 Tech Stack
 
-<br/>
+<div align="center">
 
+| 💡 Linguagens e Frameworks | ☁️ Cloud & Banco de Dados | ⚙️ Controle e Ferramentas |
+|-----------------------------|---------------------------|---------------------------|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
 
-
-## Stack
-<div style="display: inline_block">
-  <img align="center" alt="IC#" src="https://img.shields.io/badge/C%23-270065?style=for-the-badge&logo=csharp&logoColor=white">
-  <img align="center" alt="I.NET"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="SQLServer"  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
-  <img align="center" alt="Type"  src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 
-## WakaTime Stats
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanniuchoa&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giovanniuchoa&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</div>
+
+---
+
+### 📊 Top Languages
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniuchoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+### ⏱️ WakaTime Stats
+
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=tokyonight" />
 </a>
 
+---
 
+### 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/giovanniuchoa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Uchoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
 
