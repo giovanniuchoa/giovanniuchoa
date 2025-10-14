@@ -1,5 +1,5 @@
 <!-- Banner / Saudação -->
-<h2 align="center">Hello World! I am Giovanni Uchoa</h2>
+<h2 align="center">Hello World! I am Giovanni</h2>
 
 <div align="center">
 
