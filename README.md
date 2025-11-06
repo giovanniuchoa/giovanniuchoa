@@ -14,7 +14,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giovanniuchoa&theme=nord&hide_border=true" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=giovanniuchoa&theme=nord&hide_border=true" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniuchoa&layout=compact&theme=nord&hide_border=true" height="140"/>
 </p>
 
