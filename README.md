@@ -18,14 +18,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniuchoa&layout=compact&theme=nord&hide_border=true" height="140"/>
 </p>
 
----
-
-### WakaTime Stats
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=nord">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giovanniuchoa&hide_border=true&layout=compact&theme=nord" />
-  </a>  
-</div>
-
 
